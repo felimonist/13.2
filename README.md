@@ -1,6 +1,7 @@
 Домашнее задание к занятию "12.6. «Репликация и масштабирование. Часть 1»" - Богданов Антон
 
 Задание 1
+
 Зашифруем домашний каталог /home пользователя cryptouser с помощью eCryptfs.
 ![slave](https://github.com/felimonist/13.2/blob/main/img/1.1.JPG)
 
@@ -12,6 +13,7 @@
 
 
 Задание 2
+
 Установленая версия LUKS.
 ![slave](https://github.com/felimonist/13.2/blob/main/img/2.JPG)
 
